@@ -3,3 +3,8 @@ cryptography
 endesive
 py3o.formats
 py3o.template
+
+# added manually for bmya (I don't understand why it was removed in OCA, version 15 has it)
+xlrd
+xlsxwriter
+
